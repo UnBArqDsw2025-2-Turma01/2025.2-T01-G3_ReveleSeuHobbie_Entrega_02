@@ -10,4 +10,4 @@
     - [2.3. Modelagem UML Organizacional ou Casos de Uso](/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
     - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
-    - [2.5.2 Protótipo 2.0](/Modelagem/2.5.2.Prototipacao.md)
+      - [2.5.2 Protótipo 2.0](/Modelagem/2.5.2.Prototipacao.md)
