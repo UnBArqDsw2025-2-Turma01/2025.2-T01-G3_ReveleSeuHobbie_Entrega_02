@@ -12,6 +12,6 @@
     - [2.3. Modelagem UML Organizacional ou Casos de Uso](/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
     - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
-      - [2.5.1 Cronograma](/Modelagem/planejamento/2.5.1.cronograma)
-        - [2.5.1.1 Cronograma Planejado](/Modelagem/planejamento/2.5.1.1CronogramaPlanejado)
+      - [2.5.1 Cronograma](/Modelagem/planejamento/2.5.1.cronograma.md)
+        - [2.5.1.1 Cronograma Planejado](/Modelagem/planejamento/2.5.1.1CronogramaPlanejado.md)
       - [2.5.2 Protótipo 2.0](/Modelagem/2.5.2.Prototipacao.md)
