@@ -1,8 +1,21 @@
 # Revele Seu Hobbie
 
-# Nome do Projeto
-
 **Código da Disciplina**: FGA0208<br>
+**Número do Grupo**: XX<br>
+**Entrega**: 02<br>
+
+## Alunos
+|Matrícula | Aluno |
+| -- | -- |
+| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| xx/xxxxxx  |  xxxx xxxx xxxxx |
+
+## Sobre 
+Contextualize, usando referências, links, e outros materiais como fontes.
+
+## Screenshots da Segunda Entrega
+Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+
 **Número do Grupo**: 03<br>
 **Entrega**: 02<br>
 
@@ -39,6 +52,12 @@ Segue duas fotos de diagramas que foram desenvolvidos ao longo da entrega.
 ## Há algo a ser executado?
 
 ( ) SIM
+( ) NÃO
+
+Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
+
+## Informações Complementares 
+Quaisquer outras informações adicionais podem ser descritas nessa seção.
 
 (x) NÃO
 
@@ -53,3 +72,4 @@ Sem informações adicionais.
 | Versão | Data       | Descrição                                        | Autor(es)           | Revisor(es)         | Comentário do revisor | Data da revisão |
 |--------|------------|--------------------------------------------------|---------------------|---------------------|----------------------|-----------|
 | `1.0` |  22/09/2025 | Criação do documento |  [Ana Luiza](https://github.com/Ana-Luiza-SC) e [Matheus de Alcântara](https://github.com/matheusdealcantara)  | [Yzabella Pimenta](https://github.com/redjsun) |  Aprovado | 22/09/2025 |
+
