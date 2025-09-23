@@ -98,3 +98,4 @@ docsify serve ./docs
 | Versão | Data       | Descrição                                        | Autor(es)           | Revisor(es)         | Comentário do revisor | Data da revisão |
 |--------|------------|--------------------------------------------------|---------------------|---------------------|----------------------|-----------|
 | `1.0` |  22/09/2025 | Criação do documento |  [Ana Luiza](https://github.com/Ana-Luiza-SC) e [Matheus de Alcântara](https://github.com/matheusdealcantara)  | [Yzabella Pimenta](https://github.com/redjsun) |  Aprovado | 22/09/2025 |
+
