@@ -1,5 +1,3 @@
-<!-- docs/_sidebar.md -->
-
 - [Home](/docs)
 - [Projetos](/docs/Projeto/Projeto.md)
 
@@ -22,3 +20,8 @@
       - [2.5.3. Protótipo 2.0](/Modelagem/2.5.2.Prototipacao.md)
       - [2.5.4. Cenários](/Modelagem/2.5.1.Cenarios.md)
       - [2.5.5. Especificação Suplementar](/Modelagem/2.5.5.EspecificacaoSuplementar.md)
+      - [2.5.6. Atas de reunião](/Modelagem/2.5.1.Cenarios.md)
+        - [2.5.6.1 Padrão de Atas](/docs/Atas/2.5.5.1.padraoatas.md)
+        - [2.5.6.2 Reunião 01](/docs/Atas/2.5.5.2.reuniao1.md)
+        - [2.5.6.2 Reunião 02](/docs/Atas/2.5.5.3.reuniao2.md)
+        - [2.5.6.2 Reunião 03](/docs/Atas/2.5.5.4.reuniaoimplantacao.md)
