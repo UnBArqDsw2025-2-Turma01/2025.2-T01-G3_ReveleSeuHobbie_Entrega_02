@@ -71,7 +71,6 @@ O Diagrama de Casos de Uso oferece uma visão clara e objetiva das funcionalidad
 
 ## 7. Histórico de Versão
 
-| Versão | Data       | Autor         | Descrição das Alterações                             | Revisor | Data da Revisão |
-|--------|------------|---------------|------------------------------------------------------|----------|----------|
-| 1.0    | 22/09/2025 | [Ana Luiza Soares](), [Gabriel Flores](), [Ígor Veras](), [Matheus de Alcantâra](), [Yzabella Pimenta]()    | Criação do documento de casos de uso |
-|        |            |               |                                                      |
+| Versão | Data       | Autor                                                                                                                                                                                                                              | Descrição das Alterações            | Revisor                                          | Comentário do revisor                                                                | Data da Revisão |
+|--------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------------|-----------------|
+| 1.0    | 22/09/2025 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC), [Gabriel Flores](https://github.com/Gabrielfcoelho), [Ígor Veras](https://github.com/igorvdaniel), [Matheus de Alcantâra](https://github.com/matheusdealcantara), [Yzabella Pimenta](https://github.com/redjsun) | Criação do documento de casos de uso | [Paulo Lamounier](https://github.com/Nanashii76) | Bem documentado, as imagens estão visualizáveis e a referência está bem feita, aprovada | 22/09/2025      |
