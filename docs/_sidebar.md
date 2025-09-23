@@ -21,3 +21,4 @@
       - [2.5.2. Especificação dos Casos de Uso](/Modelagem/2.5.3.EspecificacaoUC.md)
       - [2.5.3. Protótipo 2.0](/Modelagem/2.5.2.Prototipacao.md)
       - [2.5.4. Cenários](/Modelagem/2.5.1.Cenarios.md)
+      - [2.5.5. Especificação Suplementar](/Modelagem/2.5.5.EspecificacaoSuplementar.md)
