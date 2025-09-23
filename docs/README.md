@@ -23,7 +23,7 @@
 ## Sobre 
 O projeto "Revele Seu Hobbie" é uma plataforma inovadora destinada a conectar pessoas com interesses semelhantes, facilitando a descoberta e o compartilhamento de hobbies. Nosso objetivo é criar uma comunidade vibrante onde os usuários possam explorar novos passatempos, participar de eventos relacionados e interagir com outros entusiastas.
 
-## Screenshots da Primeira Entrega
+## Screenshots da Segunda Entrega
 
 Segue duas fotos de diagramas que foram desenvolvidos ao longo da entrega.
 
