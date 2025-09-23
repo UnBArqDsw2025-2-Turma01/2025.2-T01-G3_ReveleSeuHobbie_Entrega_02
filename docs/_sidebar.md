@@ -1,5 +1,3 @@
-<!-- docs/_sidebar.md -->
-
 - [Home](/docs)
 - [Projetos](/docs/Projeto/Projeto.md)
 
@@ -26,3 +24,4 @@
         - [2.5.5.2 Reunião 01](/docs/Atas/2.5.5.2.reuniao1.md)
         - [2.5.5.2 Reunião 02](/docs/Atas/2.5.5.3.reuniao2.md)
         - [2.5.5.2 Reunião 03](/docs/Atas/2.5.5.4.reuniaoimplantacao.md)
+
