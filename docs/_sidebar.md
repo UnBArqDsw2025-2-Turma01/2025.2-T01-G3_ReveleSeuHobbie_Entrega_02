@@ -17,3 +17,4 @@
       - [2.5.1 Cronograma](/Modelagem/planejamento/2.5.1.cronograma.md)
         - [2.5.1.1 Cronograma Planejado](/Modelagem/planejamento/2.5.1.1CronogramaPlanejado.md)
       - [2.5.2 Protótipo 2.0](/Modelagem/2.5.2.Prototipacao.md)
+      - [2.5.1 Especificação dos Casos de Uso](/Modelagem/2.5.3.EspecificacaoUC.md)
