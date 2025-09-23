@@ -12,6 +12,7 @@
       - [2.2.3. Diagrama de Atividades](/Modelagem/2.2.3.DiagramaDeAtividades.md)
     - [2.3. Modelagem UML Organizacional ou Casos de Uso](/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
       - [2.3.1 Diagrama de Casos de Uso](/Modelagem/DiagramaDeCasosDeUso.md)
+      - [2.3.2 Diagrama de Pacotes](/Modelagem/2.3.2.DiagramaDePacotes.md)
     - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
       - [2.5.1 Cronograma](/Modelagem/planejamento/2.5.1.cronograma.md)
